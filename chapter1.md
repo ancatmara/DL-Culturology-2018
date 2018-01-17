@@ -167,7 +167,7 @@ eee@mail.ru
 Если нужно сделать гиперссылку, то она оформляется так:
 
 ```
-[туториал](https://www.markdownguide.org)
+[текст](https://www.markdownguide.org)
 ```
 
 [текст](https://www.markdownguide.org)
@@ -175,7 +175,7 @@ eee@mail.ru
 Можно добавить всплывающий при наведении комментарий:
 
 ```
-[туториал](https://www.markdownguide.org "это поможет")
+[текст](https://www.markdownguide.org "это поможет")
 ```
 
 [текст](https://www.markdownguide.org "это поможет")
