@@ -151,15 +151,18 @@
 ![](/assets/ормобрб.png)
 
 #### Полезные ссылки
-
-[Краткий гайд по графикам в экселе](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf)  
+ 
 [Тематические видеотуториалы для Mac и Windows](https://www.hampshire.edu/it/excel-tips-for-mac-and-pc)  
+[Видеоуроки](https://support.office.com/en-us/article/Excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+[Advanced Excel](https://www.calstatela.edu/sites/default/files/groups/Information%20Technology%20Services/training/pdf/excel2013p3.pdf)  
+[Official Support](https://support.office.com/en-US/Excel)  
+[Краткий гайд по графикам в экселе](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf) 
 
 добавить:
 * выделение ячеек, столбцов, строк
 * копирование формул
 * фильтры
-* нумерация строк
+* автозаполнение
 * [VLOOKUP](https://excelchamps.com/blog/excel-vlookup-function/)
 * Text to Columns
 * INDEX+MATCH
