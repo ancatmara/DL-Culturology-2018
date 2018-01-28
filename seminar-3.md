@@ -150,6 +150,11 @@
 ![](/assets/ЫВпыу.png)
 ![](/assets/ормобрб.png)
 
+#### Полезные ссылки
+
+[Краткий гайд по графикам в экселе](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf)
+[Тематические видеотуториалы для Mac и Windows](https://www.hampshire.edu/it/excel-tips-for-mac-and-pc)
+
 добавить:
 * выделение ячеек, столбцов, строк
 * копирование формул
@@ -160,4 +165,4 @@
 * INDEX+MATCH
 * Compare Two Lists
 * Remove Duplicates
-
+* freeze columns&rows
