@@ -214,11 +214,10 @@ MATCH \(что\_искать, где\_искать, 0\)
 [Видеоуроки](https://support.office.com/en-us/article/Excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)  
 [Advanced Excel](https://www.calstatela.edu/sites/default/files/groups/Information%20Technology%20Services/training/pdf/excel2013p1.pdf)  
 [Official Support](https://support.office.com/en-US/Excel)  
-[Краткий гайд по графикам в экселе](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf)
-[Excel Tutorial](http://www.excel-easy.com/introduction.html)
-[Курс на курсере](https://www.coursera.org/learn/analytics-excel)
-
-[100 формул в экселе](https://excelchamps.com/blog/excel-functions/)
+[Краткий гайд по графикам в экселе](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf)  
+[Excel Tutorial](http://www.excel-easy.com/introduction.html)  
+[Курс на курсере](https://www.coursera.org/learn/analytics-excel)  
+[100 формул в экселе](https://excelchamps.com/blog/excel-functions/)  
 
 
 
