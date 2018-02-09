@@ -18,9 +18,7 @@
 
 [National Arts Administration and Policy Publications Database \(NAAPPD\)](https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/national-arts-administration-and-policy-publications-database-naappd)
 
-Активную исследовательскую деятельность ведет некоммерческая организация "Американцы за искусство" \(AFA\). Один из её проектов – База данных публикаций о национальной культурной политике \(National Arts Administration and Policy Publications Database\). Записи в ней классифицированы по следующим типам: рефераты исследований, описание проектов, образцы документов и одностраничные отчеты.
-
-Основные количественные исследования организации – Национальный индекс искусства \(NAI\) и локальный индекс искусства \(LAI\).
+The National Arts Administration and Policy Publications Database is a bibliographic tool that enables users to access current and historical information on a multitude of topics related to arts administration and policy. Records in the database are classified into four types: Americans for the Arts archive, research abstracts, sample documents, and one pagers \(infographics\). The database contains over 7,000 bibliographic records—providing arts administrators, policy researchers, and advocates with information to help them locate information on arts policy and practice and arts administration resources and best practices. More recent entries to the database may also include the actual publication for download.
 
 [Local Arts Index](http://www.artsindexusa.org/local-arts-index)
 
@@ -57,7 +55,7 @@
 
 [Google Arts & Culture](https://www.google.com/culturalinstitute/beta/)
 
-Коллекция оцифрованных изображений. 
+Коллекция оцифрованных изображений.
 
 #### Google Forms
 
