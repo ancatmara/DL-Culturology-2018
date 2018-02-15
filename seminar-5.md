@@ -101,7 +101,7 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 ![](/assets/mimimport.png)
 
-Если у вас есть файл, то вы можете посмотреть его прямо в **Mendeley**.
+Если у вас есть файл pdf, то вы можете читать его прямо в **Mendeley**. **Mendeley** запоминает страницу, на которой вы остановились, и открывает документы с того же места на всех ваших устройствах.
 
 ![](/assets/molimport.png)
 
@@ -175,7 +175,9 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 [Вышкинский центр по работе с библиографией](https://academics.hse.ru/bibliography/)
 
-[Mendeley Guide](https://academics.hse.ru/data/2014/01/22/1325791562/Final%20Mendeley_for_single.pdf)
+[Mendeley Guide](https://academics.hse.ru/data/2014/01/22/1325791562/Final Mendeley_for_single.pdf)
+
+[Краткое руководство к Mendeley](http://elsevierscience.ru/files/pdf/Mendeley_Quick_Guide_Russian_July2016.pdf)
 
 [Comparison of reference management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
