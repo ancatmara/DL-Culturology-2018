@@ -7,4 +7,5 @@
 * [Семинар 4](prodvinutie-instrumenti-raboti-s-google-forms.md)
 * [Семинар 5](seminar-5.md)
 * [Семинар 6](seminar-6.md)
+* [Семинар 7](seminar-7.md)
 
