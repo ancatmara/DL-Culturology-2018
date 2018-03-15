@@ -72,6 +72,8 @@
 
 [SketchEngine](https://the.sketchengine.co.uk/)
 
+_Sketch Engine_ – система, позволяющая изучать сочетаемость слов на основе корпусов разных языков, причем не просто по соседству в тексте, а по грамматическим отношениям.
+
 ![](https://lh4.googleusercontent.com/p-VK8YogigRphmp50l_Wf1EQ8ThqG-1lj0pUkPbiUn_eEq6tRuxWPMODggsE0HPA83FqFvnUji-ot1eK-CWH5nQZZS7iNW_VzOTsIRH0gQ6_XCseYJTtjoPz0DV_-W1OvqB4lvsX)
 
 ![](https://lh6.googleusercontent.com/DV_lyaSvjSsXJ2iIypqAoNdvSXp_3BUYgaLq_0AtkecyFlBNOV32VdCwY9qw0EPr1Pjsm7aspMotUGaVUJ9xKf_XH9WA7sUYjZJdSvI-0oTQ2fA7Q_AaKpWJKklT3e9cYFx8fxoK)
@@ -115,6 +117,8 @@
 ### Полезные ссылки
 
 [NGram Viewer User Guide](http://gf.nsu.ru/www/wp-content/uploads/2015/11/Google-Books-NGram-Viewer.pdf)
+
+[Sketch Engine User Guide](https://www.sketchengine.co.uk/user-guide/user-manual/)
 
 [Advanced Usage of Google NGram Viewer](https://books.google.com/ngrams/info#)
 
