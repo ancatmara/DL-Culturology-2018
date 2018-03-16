@@ -88,7 +88,9 @@ _Sketch Engine_ – система, позволяющая изучать соч
 
 Отсутствие морфологического анализатора частично компенсируется возможностью подключения пользовательского списка лемм. Программа может быть использована для получения привязанных к заданной предметной области словарных минимумов, списков устойчивых сочетаний \(в том числе терминологических\), выборок к тематическим группам слов.
 
-1.Открываем во второй сверху строке меню кнопку «Word List»\(вторяя слева\)и нажимаем кнопку «Start»\(внизу ближе к левому краю\). Программа выстроит все словоформы текста в порядке частотности
+Проще говоря, это программа, которая позволяет создать собственный корпус. Чтобы загрузить файл в меню _File_ нажимаем «Open File» \(файл должен быть в формате .txt\).
+
+1.Открываем во второй сверху строке меню кнопку «Word List» \(вторяя слева\) и нажимаем кнопку «Start» \(внизу ближе к левому краю\). Программа выстроит все словоформы текста в порядке частотности
 
 2.Можно сортировать и по другим критериям. Если вместо «Sort by Freq» \(в самом низу\) выбрать «Sort by Word», произойдет сортировка по алфавиту, если выбрать «Sort by Word End», сортировка пойдет по концу слов.
 
@@ -124,7 +126,9 @@ _Sketch Engine_ – система, позволяющая изучать соч
 
 [AntConc User Guide](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf)
 
-[Corpus Analysis for Historians ](https://programminghistorian.org/lessons/corpus-analysis-with-antconc)\(tutorial\)
+[AntConc Help](http://www.laurenceanthony.net/software/antconc/releases/AntConc352/help.pdf)
+
+[Corpus Analysis with AntConc](https://programminghistorian.org/lessons/corpus-analysis-with-antconc)[ ](https://programminghistorian.org/lessons/corpus-analysis-with-antconc)\(tutorial\)
 
 [Sample Corpus](https://www.dropbox.com/s/cmt0m8wxcj78hh8/sample_corpus.txt?dl=0)
 
