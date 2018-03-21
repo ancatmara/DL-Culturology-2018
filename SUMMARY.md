@@ -8,4 +8,5 @@
 * [Семинар 5](seminar-5.md)
 * [Семинар 6](seminar-6.md)
 * [Семинар 7](seminar-7.md)
+* [Семинар 8](seminar-8.md)
 
