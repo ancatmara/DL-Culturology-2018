@@ -73,3 +73,5 @@
 
 [Charts Workshop](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf)
 
+[More on charts](https://eazybi.com/blog/data_visualization_and_chart_types/)
+
