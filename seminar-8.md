@@ -58,7 +58,7 @@
 * [Word Clouds](https://www.wordclouds.com/) – тонкие настройки, разные формы облаков, фильтрация стоп-слов, можно загрузить файл
 * [Wordle](http://www.wordle.net) – настройка формы облака, шрифта и цвета слов, работа с небольшими текстами
 * [Word It Out](https://worditout.com) – настройки цвета и размера слов, работа с небольшими текстами
-* [Tagxedo](http://www.tagxedo.com/app.html) – настройка ориентации слов, цветовой схемы, формы облака
+* [Tagxedo](http://www.tagxedo.com/app.html) – настройка ориентации слов, цветовой схемы, формы облака \(многое зависит от браузера\)
 * [Word Cloud by Jason Davies](https://www.jasondavies.com/wordcloud/) – настройка количества слов и их ориентации
 
 Пример облака тегов по статье «Cats» из Википедии, нарисованного с помощью сервиса Word Clouds.![](/assets/QQQimport.png)
