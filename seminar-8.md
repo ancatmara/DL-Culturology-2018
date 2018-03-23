@@ -71,3 +71,5 @@
 
 [Разбор типов диаграмм](http://www.plam.ru/bislit/govori_na_jazyke_diagramm_posobie_po_vizualnym_kommunikacijam/p3.php#metkadoc9)
 
+[Charts Workshop](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/center-for-family-and-demographic-research/documents/Workshops/2017-CFDR-Excel-Workshop.pdf)
+
