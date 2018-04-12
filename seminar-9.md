@@ -20,7 +20,9 @@
 
 ![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/rsz_internet_network.png)
 
-#### 
+А вот так выглядит алгоритм машинного обучения
+
+![](/assets/tyijimport.png)
 
 #### Метрики {#метрики}
 
@@ -182,7 +184,7 @@
 
 ![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/gh.png)
 
-Теперь, когда все нужные файлы лежат в репозитории, отправляемся в его настройки и прокручиваем их вниз до пункта GitHub Pages, а затем в Source выбираем Master branch и нажимаем кнопку Save. У вас должно появиться зеленое уведомление с адресом вашей странички формата 
+Теперь, когда все нужные файлы лежат в репозитории, отправляемся в его настройки и прокручиваем их вниз до пункта GitHub Pages, а затем в Source выбираем Master branch и нажимаем кнопку Save. У вас должно появиться зеленое уведомление с адресом вашей странички формата
 
 `https://username.github.io/repository_name`
 
@@ -198,9 +200,7 @@
 
 ![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/gh556.png)
 
-![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/%D0%BF%D1%807890-.png)
+![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/пр7890-.png)
 
 ![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/gh888798.png)
-
-
 
