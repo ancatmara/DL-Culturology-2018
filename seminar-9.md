@@ -204,7 +204,3 @@ Gephi позволяет вручную менять размер, цвет и �
 
 ![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/gh888798.png)
 
-
-
-
-
