@@ -208,3 +208,11 @@ Gephi позволяет вручную менять размер, цвет и �
 
 [Туториал](https://seinecle.github.io/gephi-tutorials/)
 
+##### Датасеты
+
+[https://github.com/gephi/gephi/wiki/Datasets](https://github.com/gephi/gephi/wiki/Datasets)
+
+[http://www-personal.umich.edu/~mejn/netdata/](http://www-personal.umich.edu/~mejn/netdata/)
+
+[http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
+
