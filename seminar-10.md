@@ -7,10 +7,18 @@
 * [WIX](https://ru.wix.com/)
 * [Tilda](https://tilda.cc/ru/)
 * [GitHub Pages](https://pages.github.com/)
+* [WordPress](https://wordpress.com/create/)
 
 и др.
 
 ##### WIX
+
+4 шага для создания сайта:
+
+1. Зарегистрироваться.
+2. Выбрать шаблон.
+3. Заполнить сайт.
+4. Опубликовать сайт.
 
 Сначала нужно создать аккаунт: нажимаем _Вход_, затем кликаем на _Создать аккаунт_.
 
@@ -18,9 +26,19 @@
 
 ![](/assets/Снимок экрана 2018-03-29 в 2.15.56.png)
 
+Наводим на понравившийся шаблон, нажимаем _Смотреть шаблон_. В открывшемся окне можно посмотреть, как будет выглядеть сайт в десктопной и мобильной версии \(изображения компьютера и телефона слева вверху\). Если нравится, нажимаем _Редактировать_ в правом верхнем углу.
+
+![](/assets/uojimport.png)На семинаре мы будем делать страницу художника. Здесь будет рассматриваться всё на примере шаблона _Графический и веб-дизайнер_ из категории портфолио.
 
 
 
 
 
+##### Полезные ссылки
+
+[примеры сайтов](https://winningwp.com/examples-of-websites-using-wix/), созданных с помощью WIX [и ещё](https://superbwebsitebuilders.com/wix-active-website-examples/) и [тут тоже](https://ru.wix.com/explore/websites)
+
+[альтернативы](http://www.buildthis.io/a/awesome-platforms-for-building-your-own-website/)
+
+[видеоуроки](https://www.youtube.com/channel/UCm9VYDcIJEqwxlnK3bxhT9w/videos)
 
