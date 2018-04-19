@@ -98,3 +98,5 @@
 
 [видеоуроки](https://www.youtube.com/channel/UCm9VYDcIJEqwxlnK3bxhT9w/videos)
 
+[советы по навигации](http://tilda.education/articles-navigation)
+
