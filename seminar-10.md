@@ -46,6 +46,10 @@
 
 ![](/assets/oiuykimport.png)
 
+После загрузки фона, можно настроить его расположение, прозрачность и т.д.
+
+![](/assets/oiykimport.png)
+
 ##### Полезные ссылки
 
 [примеры сайтов](https://winningwp.com/examples-of-websites-using-wix/), созданных с помощью WIX [и ещё](https://superbwebsitebuilders.com/wix-active-website-examples/) и [тут тоже](https://ru.wix.com/explore/websites)
