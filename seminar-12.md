@@ -95,6 +95,8 @@ ELAN – это программа, позволяющая аннотирова�
 
 #### Полезные ссылки
 
+[Руководство пользователя](http://abbyy-fine-reader.narod.ru/) Abbyy FineReader
+
 [Видеотуториал по Shotcut](https://www.youtube.com/watch?v=hlDG90sbhQY)
 
 и [ещё шоткат видосы](https://www.youtube.com/channel/UCjuv-Js1znyvErPy9vZf37A/videos)
