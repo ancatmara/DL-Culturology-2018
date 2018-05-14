@@ -109,6 +109,8 @@ ELAN – это программа, позволяющая аннотирова�
 
 и [ещё шоткат видосы](https://www.youtube.com/channel/UCjuv-Js1znyvErPy9vZf37A/videos)
 
+[Мультимедийный корпус](http://ruscorpora.ru/search-murco.html)
+
 [Elan User Guide](http://www.mpi.nl/corpus/manuals/manual-elan_ug.pdf)
 
 [Elan Full Manual](http://www.mpi.nl/corpus/manuals/manual-elan.pdf)
