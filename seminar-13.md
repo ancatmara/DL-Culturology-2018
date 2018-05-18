@@ -60,7 +60,7 @@ OpenStreetMap – некоммерческий веб-картографичес
 
 3. Раскрашиваем в value
 
-4. Настройки дизайна       , Цветовая схема       , Легенда       ,  Названия
+4. Настройки дизайна          , Цветовая схема          , Легенда          ,  Названия
 
 5. Вставляем свою карту
 
@@ -107,6 +107,8 @@ OpenStreetMap – некоммерческий веб-картографичес
 #### Ещё примеры
 
 [Карамзин](https://github.com/olyanechaeva/NechaevaO/blob/master/Map_Karamzin.geojson)
+
+GeoJSON [примеры](https://github.com/ebrelsford/geojson-examples)
 
 #### Полезные ссылки
 
