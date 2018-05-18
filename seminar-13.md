@@ -52,6 +52,18 @@ OpenStreetMap – некоммерческий веб-картографичес
 
 Мы можем экспортировать нашу карту в формате KML/KMZ, тогда метки можно будет открыть в другом приложении \(например, в MAPS.ME\).
 
+#### [Data Wrapper](https://www.datawrapper.de)
+
+1. Выбираем вид карты
+
+2. Выбираем отображение локаций 
+
+3. Раскрашиваем в value
+
+4. Настройки дизайна    , Цветовая схема    , Легенда    ,  Названия
+
+5. Вставляем свою карту 
+
 #### Ещё примеры
 
 [Карамзин](https://github.com/olyanechaeva/NechaevaO/blob/master/Map_Karamzin.geojson)
@@ -61,6 +73,8 @@ OpenStreetMap – некоммерческий веб-картографичес
 [Google tutorials](https://www.google.com/earth/outreach/learn/)
 
 [MapHub](https://maphub.net/)
+
+[Раскрашенные карты](https://www.datawrapper.de)
 
 [Simple lesson](https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/) Google My Maps.
 
