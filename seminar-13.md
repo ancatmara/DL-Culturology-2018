@@ -60,7 +60,7 @@ OpenStreetMap – некоммерческий веб-картографичес
 
 3. Раскрашиваем в value
 
-4. Настройки дизайна          , Цветовая схема          , Легенда          ,  Названия
+4. Настройки дизайна             , Цветовая схема             , Легенда             ,  Названия
 
 5. Вставляем свою карту
 
@@ -119,4 +119,6 @@ GeoJSON [примеры](https://github.com/ebrelsford/geojson-examples)
 [Раскрашенные карты](https://www.datawrapper.de)
 
 [Simple lesson](https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/) Google My Maps.
+
+Делаем [анимированную карту](http://www.animaps.com/#!home).
 
